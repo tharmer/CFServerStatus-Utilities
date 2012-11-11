@@ -1,0 +1,14 @@
+<instance>
+<item>
+<service>ColdFusion</service>
+<port>8500</port>
+<name>admin</name>
+</item>
+
+<item>
+<service>OfflineTest</service>
+<port>8510</port>
+<name>testsite</name>
+</item>
+
+</instance>
